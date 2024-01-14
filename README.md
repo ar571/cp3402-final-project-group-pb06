@@ -29,7 +29,8 @@ Register form page \
 Due to the other team member being absent, this project was done alone by Abhi. Because of this there is no evidence of communication, since it was not needed.
 
 ## Project Management
-I used the trello board to organise tasks and tackle them one by one, this organisation was helpful as it enabled me to break down the project into smaller tasks \
+I used the trello board to organise tasks and tackle them one by one, this organisation was helpful as it enabled me to break down the project into smaller tasks\
+Trello link: https://trello.com/b/q1Eobd4L/cp3402-final-project-kanban\
 <img src="images/trello.png">
 
 ## Deployment Tools
