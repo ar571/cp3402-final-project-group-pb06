@@ -53,7 +53,7 @@ The third and final version represents the conclusion of this project. Starting 
 ![Third version](<images/home-page.gif>)
 
 ## Workflow
-The flowchart below showcases my workflow strategy for the project, it is quite simply, code, test, deploy, verify, and repeat
+The flowchart below showcases my workflow strategy for the project, it is quite simply, code, test, deploy, verify, and repeat \
 ![Alt text](<images/workflow.jpg>)
 
 ## Conclusion
